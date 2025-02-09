@@ -57,4 +57,4 @@ Como se ha mencionado, en este proyecto se vieron los fundamentos y el ecosistem
 
 #### Con todos estos temas abarcados, se logró construir el proyecto web "GuitarLA". Los estilos están hechos con CSS, y manteniendo la responsividad utilizando media queries para que la aplicación se adapte a diferentes tamaños de pantallas. Cabe mencionar que los datos de las guitarras fueron introducidos en un archivo js para poder consultarlos y mostrar sus datos. Además, el proyecto se trató de hacer con código limpio, claro de entender y modularizado.
 
-El proyecto se ha subido a internet por medio de Netlify, por lo cual se puede acceder a través de **[este link]()**.
+El proyecto se ha subido a internet por medio de Netlify, por lo cual se puede acceder a través de **[este link](https://adorable-macaron-cdb871.netlify.app/)**.
