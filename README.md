@@ -4,6 +4,9 @@ Este primer proyecto fue para aprender las bases y fundamentos de Vue.js. El pro
 
 ![GuitarLA-Vue-02-09-2025_12_10_AM](https://github.com/user-attachments/assets/a9b70332-0eef-423d-af36-09d444549686)
 
+![GuitarLA-Vue-02-09-2025_12_12_AM](https://github.com/user-attachments/assets/97996113-3c3f-45c8-bacb-61fc017a7d87)
+
+
 
 ### ¿Qué es Vue.js? 
 
