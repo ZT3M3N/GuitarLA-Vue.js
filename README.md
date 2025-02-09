@@ -2,6 +2,9 @@
 
 Este primer proyecto fue para aprender las bases y fundamentos de Vue.js. El proyecto consistió en aprender vue haciendo un pequeño carrito de compras, con temática de guitarras. En la página principal se listan las guitarras que hay disponibles para su venta. Las guitarras cuentan con su nombre, una descripción y sus respectivos precios. Cada guitarra disponible se puede agregar al carrito, donde se almacenara la imagen, el nombre, el precio y se pueden modificar las cantidades que se quieran de una guitarra. También, se tiene la opción de quitar una guitarra del carrito o bien, vaciar completamente el carrito. Se desglosa el precio total a pagar y se calcula con base al precio de cada guitarra y su cantidad. El proyecto es meramente visual y no cuenta con un servidor BackEnd o BackEnd as a Service (BaaS) para guardar los datos porque los datos se almacenan en el Local Storage.
 
+![GuitarLA-Vue-02-09-2025_12_10_AM](https://github.com/user-attachments/assets/a9b70332-0eef-423d-af36-09d444549686)
+
+
 ### ¿Qué es Vue.js? 
 
 Vue es un framework progresivo de JavaScript, lo que significa que puede ser utilizado desde proyectos sencillos y simples hasta proyectos grandes. Vue es versátil, accesible y cuenta con un gran performance para crear interfaces de usuario para sitios/aplicaciones web.
@@ -58,3 +61,6 @@ Como se ha mencionado, en este proyecto se vieron los fundamentos y el ecosistem
 #### Con todos estos temas abarcados, se logró construir el proyecto web "GuitarLA". Los estilos están hechos con CSS, y manteniendo la responsividad utilizando media queries para que la aplicación se adapte a diferentes tamaños de pantallas. Cabe mencionar que los datos de las guitarras fueron introducidos en un archivo js para poder consultarlos y mostrar sus datos. Además, el proyecto se trató de hacer con código limpio, claro de entender y modularizado.
 
 El proyecto se ha subido a internet por medio de Netlify, por lo cual se puede acceder a través de **[este link](https://adorable-macaron-cdb871.netlify.app/)**.
+
+![GuitarLA-Vue-02-09-2025_12_07_AM](https://github.com/user-attachments/assets/f0fb3a52-aaed-45d2-a5e9-5e658468adc6)
+
