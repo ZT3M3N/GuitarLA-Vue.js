@@ -1,6 +1,6 @@
 # Vue 3 + Vite
 
-Este primer proyecto fue para aprender las bases y fundamentos de Vue.js. 
+Este primer proyecto fue para aprender las bases y fundamentos de Vue.js. El proyecto consistió en aprender vue haciendo un pequeño carrito de compras, con temática de guitarrass. En la página principal se listan las guitarras que hay disponibles para su venta. Las guitarrass cuentan con su nombre, una descripción y sus respectivos precios. Cada guitarra disponible se puede agregar al carrito, donde se almacenara la imagen, el nombre, el precio y se pueden modificar las cantidades que se quieran de una guitarra. También, se tiene la opción de quitar una guitarra del carrito o bien, vaciar completamente el carrito. Se desglosa el precio total a pagar y se calcula con base al precio de cada guitarra y su cantidad. El proyecto es meramente visual y no cuenta con un servidor BackEnd o BackEnd as a Service (BaaS) para guardar los datos porque los datos se almacenan en el Local Storage.
 
 ### ¿Qué es Vue.js? 
 
